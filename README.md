@@ -20,7 +20,7 @@ Below is the user interface of the Akash DTH remote as it appears in the IRplus 
 
 To use these codes, follow these steps within the [IRplus App](https://play.google.com/store/apps/details?id=net.binarymode.android.irplus):
 
-1.  **Download Config File:** Click [here](https://github.com/sharifwr01/akash-dth-ir-codes/raw/main/Akash%20DTH.irplus) to download the `Akash DTH.irplus` configuration file.
+1.  **Download Config File:** Click [here](https://github.com/sharifwr01/akash-dth-ir-codes/raw/main/Akash%20DTH.irplus) to download the `Akash DTH.irplus` configuration file.(`If it downloads as .irplus.txt, then remove .txt and keep only .irplus.`)
 2.  **Open the IRplus App** and navigate to the menu to find the import option.
 3.  **Select the `Akash DTH.irplus` file** from your downloaded folder.
 
